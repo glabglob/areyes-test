@@ -6,7 +6,6 @@ type ButtonProps = {
     size: number;
     icon: IconType;
     className: string
-    // onClick: () => void;
 };
 
 const Button: React.FC<ButtonProps> = ({ size, icon: Icon, className }) => {

@@ -1,13 +1,10 @@
-// component
 import Button from '../../components/button/Button';
 
-// icons
 import { MdControlCamera } from 'react-icons/md';
 import { MdOutlineAddBox } from 'react-icons/md';
 import { MdOutlineInfo } from 'react-icons/md';
 import { MdOutlineFileUpload } from 'react-icons/md';
 
-// scss
 import './buttonsField.scss';
 
 const ButtonsField: React.FC = () => {
